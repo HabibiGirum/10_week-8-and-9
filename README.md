@@ -1,6 +1,6 @@
 # Data Science project for Kara Solutions
 
-![Build Status](https://github.com/HabibiGirum/data-science-project-for-Kara-Solutions-week-7/actions/workflows/unittests.yml/badge.svg)
+![Build Status](https://github.com/HabibiGirum/10_week-8-and-9.git/actions/workflows/unittests.yml/badge.svg)
 
 ## objective of this repo 
 Your job is to build a product that does the following 
