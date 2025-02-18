@@ -1,4 +1,4 @@
-# Data Science project for Kara Solutions
+# Improved detection of fraud cases for e-commerce and bank transactions
 
 ![Build Status](https://github.com/HabibiGirum/10_week-8-and-9/actions/workflows/unittests.yml/badge.svg)
 
