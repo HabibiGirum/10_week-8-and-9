@@ -1,19 +1,12 @@
 # Data Science project for Kara Solutions
 
-![Build Status](https://github.com/HabibiGirum/10_week-8-and-9.git/actions/workflows/unittests.yml/badge.svg)
-
-## objective of this repo 
-Your job is to build a product that does the following 
-1. Develop data scraping and collection pipeline.
-2. Develop data cleaning and transformation pipeline.
-3. Object detection using YOLO.
-4. Data warehouse design and implementation
-5. Data integration and enrichment
+![Build Status](https://github.com/HabibiGirum/10_week-8-and-9/actions/workflows/unittests.yml/badge.svg)
 
 
 ## Overview
 
-You are a data engineer at Kara Solutions, a leading data science company with over 50+ data-centric solutions. You are tasked with Building a data warehouse to store data on Ethiopian medical businesses scrapped from the web and telegram channels. This project involves several key steps and considerations to ensure the data warehouse is robust, scalable, and capable of handling the unique challenges associated with scraping and data collection from Telegram channels. Additionally, it involves integrating object detection capabilities using YOLO (You Only Look Once) to enhance data analysis. 
+You are a data scientist at Adey Innovations Inc., a top company in the financial technology sector. Your company focuses on solutions for e-commerce and banking. Your task is to improve the detection of fraud cases for e-commerce transactions and bank credit transactions. This project aims to create accurate and strong fraud detection models that handle the unique challenges of both types of transaction data. It also includes using geolocation analysis and transaction pattern recognition to improve detection.
+
 
 ## Installation
 
@@ -32,8 +25,8 @@ python --version
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/HabibiGirum/data-science-project-for-Kara-Solutions-week-7.git
-cd data-science-project-for-Kara-Solutions-week-7
+git clone https://github.com/HabibiGirum/10_week-8-and-9.git
+cd 10_week-8-and-9
 ```
 
 ### Create a Virtual Environment (Optional but Recommended)
